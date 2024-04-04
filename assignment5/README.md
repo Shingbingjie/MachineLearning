@@ -4,8 +4,8 @@ The exercise is about implementing collaborative filtering to build a recommende
 * Overview of recommender systems
 * Movie ratings dataset
 * Collaborative filtering learning algorithm
-* Collaborative filtering cost function
-* Implementing the cost function using for loops
-* Vectorized implementation of the cost function
+  1. Collaborative filtering cost function
+  2. Implementing the cost function using for loops
+  3. Vectorized implementation of the cost function
 * Learning movie recommendations
 * Recommendations: Predicting movie ratings and displaying recommended movies
